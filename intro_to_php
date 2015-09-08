@@ -1,0 +1,30 @@
+Intro to PHP
+
+PHP is a server side web language. It originally stood for personal home page but now stands for PHP hypertext pre-processor.
+
+It is is HTML centric. It embeds directly to HTML code. The ability to embed php code directly to HTML code by using code blocks allows for an advantage in creating simple and powerful web applications. PHP is also a scripting language.
+
+The server side process is a client sends a request to the server. The server interprets the PHP and process the data and sends the client a response.
+
+A common road block looks like this:
+
+<body>
+  <p>
+    <? php echo "Hello World";?>
+  </p>
+</body>
+
+Variables always begin with a $ symbol and commonly look like this:
+
+<? php
+
+$name = "Mike Wasowski";
+$location = "Orlando FL.";
+$full_name = name;
+
+?>
+<!DOCTYPE html>
+
+The variables are able to store value and can be recalled later.
+
+Semi-colons are not needed for two lines but need to used for multiple lines.
