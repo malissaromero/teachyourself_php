@@ -27,4 +27,6 @@ $full_name = name;
 
 The variables are able to store value and can be recalled later.
 
-Semi-colons are not needed for two lines but need to used for multiple lines.
+Semi-colons are not needed for one line but need to be used for multiple lines.
+
+I am working on setting up server. Notes later. 
