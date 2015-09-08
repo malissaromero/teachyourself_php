@@ -13,13 +13,8 @@
 7. I first did the PHP Basics Course in Tree house that were great in breaking down PHP but it got a little slow when they were explaining datatypes so I moved on to Robin's screencast and notes: https://www.youtube.com/watch?v=O11hPhF5GAA&feature=youtu.be
 It was a great transition because I needed the basics and then I was able to jump into the deep end of the language.
 
-8.
-1. What are some of the big changes PHP has gone through in the past few years?
+9. What are some of the big changes PHP has gone through in the past few years?
   - PHP now has realized Object Oriented Programming.
-2. How do you concatenate numbers vs strings in PHP?
+
+10. How do you concatenate numbers vs strings in PHP?
   - You use the + to concatenate numbers and . to concatenate strings.
-
-
-
-9. Comfort Level: 5
-I wasn't able to see my code in my browser while I was going through the Treehouse tutorial. I tried to open index.php through the terminal and localhost/index.php straight into the browser. Am I missing something?
